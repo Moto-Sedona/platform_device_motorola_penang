@@ -593,9 +593,7 @@ vendor/etc/thermal-engine.conf
 vendor/lib64/vendor.qti.hardware.qccsyshal@1.0.so
 
 # EUICC
-product/priv-app/EuiccGoogle/EuiccGoogle.apk
 product/etc/permissions/android.hardware.telephony.euicc.xml
-product/etc/permissions/privapp-permissions-com.google.android.euicc.xml
 
 # Touch firmware
 vendor/firmware/focaltech-csot-ft8057-05-0000-penang.bin
